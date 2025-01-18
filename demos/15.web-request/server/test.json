@@ -1,0 +1,9 @@
+{
+  "posts": [
+    { "id": 1, "title": "Hello World", "content": "This is my first post!" }
+  ],
+  "comments": [
+    { "id": 1, "postId": 1, "comment": "Great post!" }
+  ],
+  "profile": { "name": "John Doe" }
+}
