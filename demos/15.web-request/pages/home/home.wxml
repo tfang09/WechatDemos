@@ -1,5 +1,5 @@
 <view>
   <text class="title" wx:for="{{items}}">
-    {{index}}、 {{item}}
+    {{index}}、 {{item.name}}
   </text>
 </view>
